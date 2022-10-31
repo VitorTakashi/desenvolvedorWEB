@@ -1,0 +1,64 @@
+#site{
+    /*Definição da largura da página*/
+    width: 1280px;
+    /*Definição da altura da página*/
+    height: 700px;
+    /*Definição da posição que a página ocupará, nesse caso ficará no topo*/
+    margin-top: 0;
+    /*Definição da margem esquerda*/
+    margin-left: auto;
+    /*Definição da margem direita*/
+    margin-right: auto;
+    /*Definição da margem de baixo*/
+    margin-bottom: 0;
+    background-color: darksalmon;
+}
+
+#header{
+    /*Definição da largura da div header*/
+    width: 1280px;
+    /*Definição da altura da div*/
+    height: 100px;
+    /*Cor de fundo*/
+    background-color: #00f;
+    /*Cor da letra*/
+    color: white;
+    /*Alinhamento do texto*/
+    text-align: center;
+}
+
+#conteudo{
+    /*Definição da largura da div conteudo*/
+    width: 1280px;
+    /*Definição da altura da div conteudo*/
+    height: 500px;
+    /*Cor de fundo*/
+    background-color: #0F0;
+    /*Cor da letra*/
+    color: white;    
+}
+
+#rodape{
+    /*Definição da largura da div footer*/
+    width: 1280px;
+    /*Definição da altura da div footer*/
+    height: 100px;
+    /*Cor de fundo*/
+    background-color: #C3C;
+}
+
+
+#conteudo-left{
+    width: 640px;
+    height: 300px;
+    float: left;
+    background-color: #ff0;
+}
+
+#conteudo-right{
+    width: 640px;
+    height: 400px;
+    float: left;
+    background-color: #f00;
+
+}
