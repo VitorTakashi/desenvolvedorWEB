@@ -1,3 +1,13 @@
 footer{
     background-color: #ffc107;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+ul{
+    list-style: none;
+}
